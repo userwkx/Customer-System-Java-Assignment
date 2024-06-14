@@ -7,11 +7,26 @@ Java期末作业，客户管理系统。
 
 ![image](https://github.com/LazyHaha1023/-/assets/154957574/d14f40ca-1125-4a25-9a64-0d15db9939f7)
 
+开发环境：
+
+·操作系统:Windows11版本。
+
+·Java开发包:JDK8。
+
+·数据库:MySQL8.0。
+
+·开发工具:IntelliJ IDEA2023.3。
+
 
 添加外部库：
 
 
 ![image](https://github.com/LazyHaha1023/-/assets/154957574/e5ec1d2c-cbd4-43c8-be79-16a5670a93a4)
+
+下载地址：https://dev.mysql.com/downloads/connector/j/?os=26
+
+
+         https://sourceforge.net/projects/jdatepicker/files/Releases/1.3.x/jdatepicker-1.3.4.jar/download
 
 数据库表结构：
 

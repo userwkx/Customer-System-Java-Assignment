@@ -1,5 +1,13 @@
 Java期末作业，客户管理系统。
 
+功能结构：
+
+
+![image](https://github.com/LazyHaha1023/-/assets/154957574/a9a0d877-38cb-422e-9e30-c2010451bb99)
+
+![image](https://github.com/LazyHaha1023/-/assets/154957574/d14f40ca-1125-4a25-9a64-0d15db9939f7)
+
+
 添加外部库：
 
 
